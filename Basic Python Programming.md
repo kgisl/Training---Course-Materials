@@ -22,7 +22,7 @@
 	•	Implement Python Data Structures such as List, Dictionary, Tuples and Set
 	•	Introduction to Functional programming and List Comprehensions
 	•	Each  topics will have  problem sets  and real world projects 
-	Throughout each day:
+##Throughout each day:
 	•	Continual live-coding demonstrations by instructor
 	•	Ongoing Q&A throughout the class
 	•	Hands-on programming lab exercises nearly every hour, to immediately cement what you learn
