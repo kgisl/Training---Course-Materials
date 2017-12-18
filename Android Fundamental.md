@@ -1,4 +1,4 @@
-##Android Developer Fundamental 1 
+## Android Developer Fundamental 1 
 
 #### I.Why Learn Android?  #
 	•	Technology for life. Deep interaction with our daily life. 
@@ -7,7 +7,7 @@
 	•	Open Source, Control & Flexibility 
 	•	Future Technology 
 
-####II.	Objectives 
+#### II.	Objectives 
 Upon completion of this course, you will be able to: 
 
 	•	Build your own Android apps 
@@ -19,12 +19,12 @@ Upon completion of this course, you will be able to:
 	•	Use Android's communication APIs for SMS, telephony, network management, and internet resources (HTTP) 
 	•	Secure, tune, package, and deploy Android applications 
 
-####III.	Audience 
+#### III.	Audience 
 <p>This course is designed for software developers interested in designing, creating, deploying, and testing applications for the Android mobile phone platform. It is valuable to both novices and professional (who already have experience in developing mobile applications for other platforms). </p>
 
 #### IV.	Prerequisites 
 Java Programming covering following topics: 
-######Java Basic 
+###### Java Basic 
 1. Basic Syntax 
 2. Object & Classes 
 3. Basic Datatypes 
@@ -42,7 +42,7 @@ Java Programming covering following topics:
 15.	Files and I/O 
 16.	Exceptions 
 
-######Java Object Oriented 
+###### Java Object Oriented 
 1.	Inheritance 
 2.	Overriding 
 3.	Polymorphism 
@@ -51,11 +51,11 @@ Java Programming covering following topics:
 6.	Interfaces 
 7.	Packages 
 
-######Java Advanced: 
+###### Java Advanced: 
 Collections (Arraylist, Hashmap)
 
 __________
-##Detailed Outline
+## Detailed Outline
 **1. History of Android**
 		<p>History of Android module focuses on how we got here. The goal of the module is to give us an idea of design philosophy behind Android, and what it may say about the future of the platform. At this high level, we explore both technical and business choices that effect the platform for a long time. We'll look at how and Android operating system gets put together by various parties involved, from Google to carriers. Topics in this module include: </p>
 
