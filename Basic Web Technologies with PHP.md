@@ -1,20 +1,20 @@
-#Web Technologies With PHP
+# Web Technologies With PHP
 
 
-##About the Course
+## About the Course
 <p>This course explores each concept in PHP language. This course teaches basic tasks that are necessary to create web applications. You will be exposed to many fundamental programming concepts such as data types, functions, control flow, and more. </p>
 <p>This course includes hands-on labs that enable the learner to build basic web pages that are the components of a web application used to solve real world problems. By end the end of this course, you will have gained familiarity with a very convenient, flexible server-side language PHP.</p>
  
-##What you'll learn
+## What you'll learn
 •	You will learn the basics of the PHP programming language
 •	You  will learn what databases are and how to use them effectively
 •	You will learn how to effectively develop an application using PHP.
 •	You will learn HTML, CSS for front end design.
 
-##Detailed Course Outline
+## Detailed Course Outline
 **Web Scripting**
 
-####HTML5- The Static Web Page Creation
+#### HTML5- The Static Web Page Creation
 
 	•	HTML5  Introduction 
 	•	Structure 
@@ -26,7 +26,7 @@
 	•	Drag & Drop 
 	•	Forms & Form Elements 
 
-####CSS 3 - The Presentation Semantics
+#### CSS 3 - The Presentation Semantics
 
 	•	CSS Properties, Selectors, Style Declaration Types 
 	•	Colors, Backgrounds, Text and Fonts 
@@ -36,7 +36,7 @@
 	•	Pseudo class & Elements, @Rules( import, font-face, charset) 
 	•	Filters, Media Types, Printing and Layouts 
 
-####JavaScript - The Interpreted Programming Language
+#### JavaScript - The Interpreted Programming Language
 
 	•	Interpreted Programming Languages 
 	•	Integrating JavaScript with HTML 
@@ -48,7 +48,7 @@
 	•	Executing Conditional statements 
 	•	Working with Functions 
 
-####jQuery - Write Less Do More…
+#### jQuery - Write Less Do More…
 
 	•	Understanding jQuery 
 	•	jQuery Selectors 
@@ -57,7 +57,7 @@
 	•	jQuery and AJAX calls 
 	•	JSON 
 
-####Bootstrap
+#### Bootstrap
 
 	•	Introduction to Bootstrap 
 	•	Bootstrap Grid System 
@@ -70,7 +70,7 @@
 	•	Bootstrap Plug-ins : Transition ,Modal ,Dropdown ,Scrollspy ,Tab ,Tooltip 
 	•	Building Websites with Bootstrap 
 
-####AngularJS
+#### AngularJS
 
 	•	AngularJS Introduction 
 	•	Single Page Application (SPA) 
@@ -95,11 +95,11 @@
 
 
 
-###PHP
+### PHP
 
 <p>The contents of this course are a comprehensive solution that moulds you to a PHP specialist by providing a combination of on hand labs and the training provided in the class. It helps the trainee to learn and develop various php technology applications that definitely meets the current industry needs.</p>
 
-####PHP – Understanding the Preliminaries
+#### PHP – Understanding the Preliminaries
 	•	Introduction to web & internet 
 	•	Introduction to server 
 	•	Understanding localhost server 
@@ -109,7 +109,7 @@
 	•	Conditional Branching and Looping Statements 
 	•	Learning Arrays in PHP 
 
-####PHP - The Core Logics and Techniques
+#### PHP - The Core Logics and Techniques
 
 	•	String and Math functions in PHP 
 	•	Introduction HTML Form Elements and Fields 
@@ -120,7 +120,7 @@
 	•	What are the Scope of variables 
 	•	Usage of Include and require statements 
 
-####PHP – File Handling, the Plain Repository of Data
+#### PHP – File Handling, the Plain Repository of Data
 
 	•	Handling files and directories in PHP 
 	•	Fetching information from files 
@@ -131,7 +131,7 @@
 	•	Using PHP’s PDO Extension 
 
 
-####Learn More Advanced Techniques in PHP
+#### Learn More Advanced Techniques in PHP
 
 	•	Introduction to Object Oriented Programming 
 	•	Classes and Objects 
@@ -143,14 +143,14 @@
 	•	Session Handling 
 	•	Using Cookies 
 
-####Working with XML and JSON
+#### Working with XML and JSON
 
 	•	Introduction to XML 
 	•	How to Integrate PHP and XML 
 	•	Introduction to JSON 
 	•	Building a Sample Web Application 
 
-####Content Management Systems
+#### Content Management Systems
 
 	•	Knowing Content Management System 
 	•	Sample Web Application Development using Wordpress 
@@ -160,7 +160,7 @@
 	•	Using Widgets and Plugins 
 	•	Customizing Themes 
 
-####CakePHP or Laravel Framework
+#### CakePHP or Laravel Framework
 
 	•	Introduction to PHP Frameworks 
 	•	Working with CakePHP or Laravel Framework 
@@ -173,26 +173,26 @@
 	•	Session 
 	•	Database 
 
-####Payment Gateway, E-mail and Social Media Networks
+#### Payment Gateway, E-mail and Social Media Networks
 
 	•	Integration of payment gateway 
 	•	Integrating emails to web application 
 	•	Integrating social media networks to web application 
 
-####FTP Management/Web Hosting
+#### FTP Management/Web Hosting
 
 	•	Set up a domain and hosting account 
 	•	Understanding FTP 
 	•	Setting up FTP Server (Live) 
 	•	Uploading and downloading FTP contents 
 
-####Web Security
+#### Web Security
 
 	•	Data Validation 
 	•	SQL Injection 
 	•	Cross Site Scripting 
 
-####Search Engine Optimization (SEO)
+#### Search Engine Optimization (SEO)
 
 	•	Onsite Optimization Basics 
 	•	Coding Best Practices 
