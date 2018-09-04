@@ -1,4 +1,4 @@
-#Basic Python Programming
+# Basic Python Programming
 
 **Length**: 9 Weeks<br>
 **Effort**:  6-8 Hours / Week<br>
@@ -6,11 +6,11 @@
 **Level**: Introductory<br>
 **Certificate**: Verified Certificate 
 
-##About the Course
+## About the Course
 <p>Interested in learning a computer programming language but unsure of how and where to begin? This course, Learn to Program Using Python, is a great place to start.</p>
 <p>Python is an easy and fun language to learn, and it is now one of the most popular programming languages, suitable for almost any task from developing graphical user interfaces to building web applications.</p>
 <p>This course is an introduction to the Python programming language. This course is open to all learners who wish to gain an understanding of the basic components of computer programming. You will learn basic computer programming concepts and terminologies such as variables, constants, operators, expressions, conditional statements, loops, and functions. This Python course includes hands-on exercises to help you understand the components of Python programming while incrementally developing more significant programs. The exercises in this course will be based on small assignments which will relate to real-world problems.</p>
-##What you'll learn
+## What you'll learn
 <p>Upon completing this course you will be able to:</p>
 	•	Introduction to Python Programming
 	•	Get user-input data and manipulate it using Python.
@@ -22,14 +22,14 @@
 	•	Implement Python Data Structures such as List, Dictionary, Tuples and Set
 	•	Introduction to Functional programming and List Comprehensions
 	•	Each  topics will have  problem sets  and real world projects 
-##Throughout each day:
+## Throughout each day:
 	•	Continual live-coding demonstrations by instructor
 	•	Ongoing Q&A throughout the class
 	•	Hands-on programming lab exercises nearly every hour, to immediately cement what you learn
-##On your schedule:
+## On your schedule:
 <p>Take courses when you want and at your own pace</p>
 
-##Detailed Course Outline
+## Detailed Course Outline
 
 **An Overview of Python**
 <p>Python is currently one of the most popular dynamic programming languages, along with Perl, Tcl, PHP, and newcomer Ruby. Although it is often viewed as a "scripting" language, it is really a general purpose programming language along the lines of Lisp or Smalltalk (as are the others, by the way). Today, Python is used for everything from throw-away scripts to large scalable web servers that provide uninterrupted service 24x7. Topics in this module includes:</p>
